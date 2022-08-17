@@ -1,6 +1,6 @@
 # News-Summarization
 
-The project's goal is to use different Deep Learning techniques - T5 Transformer, Encoder & Decoder with BiLSTM models, and NLP to generate coherent summaries – to generate brief descriptions of news stories.
+The project's goal is to use different Deep Learning techniques - T5 Transformer, Encoder & Decoder with BiLSTM models, and NLP to generate coherent summaries – to generate brief descriptions of long news articles.
 
 Business Problem:
 
